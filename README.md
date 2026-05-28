@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ekti-chele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ekti Chele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekti-chele/) |
+| **Get License** | [License this song: Ekti Chele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ekti-chele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2292)
 
 ---
 
