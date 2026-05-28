@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ekti Chele
+
+This log tracks the cryptographic history and versioning for the song **Ekti Chele** (ekti-chele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T14:43:54.629622 | `v1` | `78318bfb80a9b29e5c6342ebf79701416eeb76878d6196a2ccdea9f0775126fc` | `b317bdcfa0df54973bced80e25ebc0c73c3742235d9a4e0798a118d2875b521b` | `2026-05-28_ekti-chele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
